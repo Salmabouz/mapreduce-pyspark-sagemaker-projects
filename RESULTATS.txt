@@ -1,0 +1,154 @@
+URL: https://restaurant-mun.com/paris/contact-us
+Emails:
+  - contact@restaurant-mun.com
+  - 69Emailcontact@restaurant-mun.comEve
+  - Enquiryprivatisation@restaurant-mun.comCon
+Top mots fréquents:
+  - to: 16
+  - your: 15
+  - the: 14
+  - and: 11
+  - cookies: 11
+  - cookie: 10
+  - you: 9
+  - mūn: 8
+  - in: 7
+  - all: 7
+
+--------------------------------------------------
+
+URL: https://gigi-restaurant.com/paris/contact-us
+Emails:
+  - contact@gigi-restaurant.com
+  - 66Emailcontact@gigi-restaurant.comEve
+  - Enquiryprivatisation@gigi-restaurant.com
+Top mots fréquents:
+  - to: 15
+  - your: 15
+  - the: 12
+  - gigi: 11
+  - cookies: 11
+  - and: 10
+  - cookie: 10
+  - rigolatto: 9
+  - you: 9
+  - our: 7
+
+--------------------------------------------------
+
+URL: https://perruche-restaurant.com/paris/contact-us
+Emails:
+  - contact@perruche-restaurant.com
+  - 23EMAILcontact@perruche-restaurant.comEVE
+  - ENQUIRYprivatisation@perruche-restaurant.comCon
+Top mots fréquents:
+  - your: 15
+  - to: 14
+  - the: 12
+  - and: 11
+  - cookies: 10
+  - cookie: 10
+  - perruche: 9
+  - you: 8
+  - in: 6
+  - website: 6
+
+--------------------------------------------------
+
+URL: https://benoit-paris.com/en/contact
+Emails:
+  - restaurant.benoit@ducasse-paris.com
+  - Event.BENOIT@ducasse-paris.com
+  - presse@ducasse-paris.com
+Top mots fréquents:
+  - the: 8
+  - contact: 7
+  - ducasse: 7
+  - paris: 6
+  - restaurant: 4
+  - benoit: 4
+  - to: 4
+  - of: 4
+  - in: 4
+  - pm: 4
+
+--------------------------------------------------
+
+URL: https://restaurant-allard.fr/en/contact
+Emails:
+  - restaurant.allard@ducasse-paris.com
+  - Event.ALLARD@ducasse-paris.com
+  - presse@ducasse-paris.com
+Top mots fréquents:
+  - contact: 8
+  - the: 8
+  - to: 8
+  - ducasse: 7
+  - paris: 5
+  - restaurant: 4
+  - allard: 4
+  - of: 4
+  - in: 4
+  - pm: 4
+
+--------------------------------------------------
+
+URL: https://david-mallett.com/en/salons/notre-dame
+Emails:
+  - 23info@david-mallett.comMon
+Top mots fréquents:
+  - the: 19
+  - of: 16
+  - cookies: 16
+  - to: 13
+  - from: 11
+  - des: 10
+  - your: 10
+  - and: 10
+  - short: 10
+  - treatment: 10
+
+--------------------------------------------------
+
+URL: https://l-hotel.com/contact-directions
+Emails:
+  - stay@l-hotel.comAdd
+  - stephane@l-hotel.comGro
+  - joe@curioushotels.comSal
+  - sales@curioushotels.comPre
+  - press@curioushotels.com
+  - Francestay@l-hotel.com
+  - 00stay@l-hotel.com
+Top mots fréquents:
+  - l: 13
+  - hotel: 12
+  - to: 10
+  - curious: 6
+  - paris: 5
+  - 1: 5
+  - a: 5
+  - 33: 4
+  - 0: 4
+  - 44: 4
+
+--------------------------------------------------
+
+URL: https://hotelrdeparis.com/en/p/3/contact
+Emails:
+  - reservation@hotelrdeparis.com
+  - reservation@hotelrdeparis.com
+  - reservation@hotelrdeparis.com
+Top mots fréquents:
+  - de: 18
+  - paris: 10
+  - r: 6
+  - with: 6
+  - to: 6
+  - the: 6
+  - room: 5
+  - of: 5
+  - hotel: 4
+  - roomdeluxe: 4
+
+--------------------------------------------------
+

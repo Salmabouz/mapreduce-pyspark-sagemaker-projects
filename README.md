@@ -9,7 +9,7 @@ Extraction d'informations web (emails & mots fréquents) avec scraping HTML et l
 
 Modélisation interprétable d’un score de crédit hypothécaire avec Amazon SageMaker.
 
-📍 Exercice 1 : Amis en Commun via MapReduce & PySpark
+Exercice 1 : Amis en Commun via MapReduce & PySpark
 
 Objectif
 Identifier les amis en commun entre chaque paire d’utilisateurs d’un réseau social à partir d’un fichier brut (amis.txt), en suivant le paradigme MapReduce.
